@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.5"
+  },
+  "scripts": {
+  "sass": "sass --watch index.scss index.css"
+}
+}
+
